@@ -3,6 +3,7 @@ Dentro de un documento HTML bien formado, introduce una imagen que contenga bien
 
 
 
+
 <!DOCTYPE html> 
 <html lang="es"> 
 
@@ -11,11 +12,15 @@ Dentro de un documento HTML bien formado, introduce una imagen que contenga bien
     <meta charset="utf8">
 
     <h1>BENEFICIOS DE TENER UN GATO</h1>
+    <br></br>
+    <br></br>
 
-<img src="https://www.purina.es/sites/g/files/mcldtz1656/files/2017-10/Getting-A-Cat.jpg" height="350" width="940" style="border: 15px solid pink" Alt:"gato de color gris y ojos ambar tumbado de lado en una alfombra blanco roto"><br><i>Ventajas de tener un gato</i></a>
+<img src="https://www.purina.es/sites/g/files/mcldtz1656/files/2017-10/Getting-A-Cat.jpg" height="350" width="940" style="border: 15px solid pink" Alt:"gato de color gris y ojos ambar tumbado de lado en una alfombra blanco roto">
+<p><i>Ventajas de tener un gato</i></p>
 
 </head>
-
+<br></br>
+<br></br>
 <body>
 
     <p> No hay duda de ello, <strong>los gatos son grandes mascotas</strong>. Después de todo, <i>¿qué hay mejor que volver a casa al final de un duro día y escuchar el ronroneo de satisfacción de una adorable bola de pelo?</i></p>
